@@ -20,6 +20,31 @@ A comprehensive Student Grade Tracker system built in Java that allows educators
 - Command line/terminal access
 
 ### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/rruutujaa/CodeAlpha_StudentGradeTracker.git
+1. Download the `StudentGradeTracker.java` file
+2. Open command prompt/terminal
+3. Navigate to the folder containing the file
+4. Compile: `javac StudentGradeTracker.java`
+5. Run: `java StudentGradeTracker`
+
+## 📖 Usage Guide
+
+### Menu Options:
+1. **Add Student** - Register a new student with name and ID
+2. **Add Grade** - Input grades for existing students
+3. **Display Student Report** - View individual student performance
+4. **Display Overall Statistics** - See class-wide statistics
+5. **Exit** - Close the application
+
+## 🛠️ Technical Implementation
+- **Language**: Java
+- **Data Structures**: ArrayList for dynamic storage
+- **OOP Concepts**: Classes, objects, encapsulation
+- **Design Pattern**: Menu-driven console application
+
+## 👤 Author
+**Rutuja** - CodeAlpha Java Programming Intern
+
+## 📝 CodeAlpha Internship Task 1 ✅
+
+---
+**Repository**: https://github.com/rruutujaa/CodeAlpha_StudentGradeTracker
